@@ -1,0 +1,17 @@
+{
+  "name": "product-management-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript Product Management system with OOP",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "keywords": ["typescript", "oop", "product-management"],
+  "author": "",
+  "license": "MIT"
+}
