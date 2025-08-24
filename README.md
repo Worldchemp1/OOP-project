@@ -8,7 +8,7 @@ A **complete TypeScript-based Product Management system** built with Object-Orie
 
 ## ✨ **Live Demo**
 
-🌐 **[Try it live!](https://yourusername.github.io/product-management-ts/)**
+🌐 **[Try it live!](https://Worldchemp1.github.io/OOP-project/)**
 
 ## 🎯 **Learning Objectives**
 
