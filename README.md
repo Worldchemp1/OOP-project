@@ -1,6 +1,23 @@
 # 🛍️ Product Management System
 
-A TypeScript-based Product Management system built with Object-Oriented Programming principles, featuring CRUD operations and a beautiful web interface.
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/product-management-ts.svg)](https://github.com/yourusername/product-management-ts/stargazers)
+
+A **complete TypeScript-based Product Management system** built with Object-Oriented Programming principles, featuring **CRUD operations** and a **beautiful web interface**. Perfect for learning TypeScript, OOP, and modern web development!
+
+## ✨ **Live Demo**
+
+🌐 **[Try it live!](https://yourusername.github.io/product-management-ts/)**
+
+## 🎯 **Learning Objectives**
+
+This project demonstrates:
+- ✅ **TypeScript Interfaces** - Proper type definitions and type safety
+- ✅ **CRUD Operations** - Create, Read, Update, Delete functionality
+- ✅ **OOP Principles** - Encapsulation, Abstraction, Polymorphism
+- ✅ **Array Methods** - Search, filter, and data manipulation
+- ✅ **Modern Web Development** - ES modules, responsive design
 
 ## ✨ Features
 
